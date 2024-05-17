@@ -4,3 +4,7 @@ datasets
 ipywidgets
 Pillow
 matplotlib
+scikit-learn
+torch
+torchvision
+scikit-plot
