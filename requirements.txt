@@ -8,3 +8,5 @@ scikit-learn
 torch
 torchvision
 scikit-plot
+scipy=1.11.4¨
+scikit-image
